@@ -48,5 +48,5 @@ try:
         t=threading.Thread(target=pinging,args=(i,q))
         t.start()
 except Exception as e:
-    print('install modules mentioned requirements.tx')
+    print('install modules mentioned in requirements.txt')
     print('Try giving root permission or visit https://pypi.org/project/pythonping/#files to install pythonping')
