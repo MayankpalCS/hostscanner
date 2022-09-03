@@ -29,7 +29,7 @@ try:
                                                                                                
 
 
-    banner()
+    
     init()
     host=input('Enter three block of the subnet')
     threads=int(input('Number of threads recommended(50 or 100)'))
