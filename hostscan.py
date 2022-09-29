@@ -11,7 +11,7 @@ try:
     green = Fore.GREEN
     yellow = Fore.YELLOW
     reset = Fore.RESET
-    def banner():
+    def anner():
         print(f"""{green}
             |    | |----| |------ --------   ------- |------- |-----| ||     | ||     | |----- |-----|
             |    | |    | |           |      |       |        |     | | |    | | |    | |      |     |
@@ -25,7 +25,7 @@ try:
                             """)                                                                   
 
 
-    banner()
+    anner()
                                                                                                
 
 
